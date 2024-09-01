@@ -43,38 +43,3 @@ function statValues(id) {
     }
   }
 }
-
-
-
-// function statValues(id) {
-//   var url = 'https://www.wowhead.com/wotlk/item=' + id + '&xml';
-//   var response = UrlFetchApp.fetch(url);
-//   var xmlContent = response.getContentText();
-//   var document = XmlService.parse(xmlContent);
-//   var root = document.getRootElement();
-//   var jsonEquipElement = root.getChild('item').getChild('jsonEquip');
-  
-//   if (jsonEquipElement) {
-//     var jsonEquipContent = jsonEquipElement.getText().trim();
-//     var jsonData = JSON.parse('{' + jsonEquipContent + '}');
-
-//     var stats = ["agi", "sta", "int", "rgdatkpwr", "spldmg", "critstrkrtng", "armorpenrtng", "hastertng", "hitrtng", "exprtng", "resirtng"];
-//     var statValues = [];
-
-//     stats.forEach(function(stat) {
-//       if (jsonData.hasOwnProperty(stat)) {
-//         var statValue = jsonData[stat];
-//         Logger.log("The value of " + stat + " is: " + statValue);
-//         statValues.push(statValue);
-//       } else {
-//         Logger.log(stat + " not found");
-//         statValues.push(''); // Добавляем пустую ячейку если значение не найдено
-//       }
-//     });
-    
-//     return statValues;
-//   } else {
-//     Logger.log("No jsonEquip content found");
-//     return null;
-//   }
-// }

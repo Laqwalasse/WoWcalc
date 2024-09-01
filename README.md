@@ -2,6 +2,10 @@
 
 **ССЫЛКА НА ДОКУМЕНТ:** https://docs.google.com/spreadsheets/d/1zn8SRW_emkZvs2q2L4hWa5ybwenzDhxKQxbYrNKio-k/edit?gid=0#gid=0
 
+Применим к WOTLK (предпочтительно), BC и CLASSIC дополнениям. Для дополнений начиная от Cataclysm необходимо добавлять новые типы характеристик. В целом, у вас есть все исходники и при желании вы можете этим заняться.
+
+Applicable to WOTLK (preferably), BC, and CLASSIC expansions. For expansions starting from Cataclysm, it is necessary to add new stat types. Overall, you have all the source materials, and if desired, you can work on this.
+
 ## ENGLISH
 
 **Requirements for the table to work:**

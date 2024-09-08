@@ -6,7 +6,7 @@ Applicable to expansions: WotLK (preferably), BC, and Classic. For expansions st
 
 Применим к дополнениям: WotLK (предпочтительно), BC и Classic. Для дополнений начиная от Cataclysm необходимо добавлять новые типы характеристик. В целом, у вас есть все исходники и при желании вы можете этим заняться.
 
-## ENGLISH
+## 🇺🇸 ENGLISH
 
 **Requirements for the table to work:**
 
@@ -20,7 +20,7 @@ Each socket slot is automatically assigned a maximum value of 20 points. If the 
 
 The XML link is not needed for users; it's for developers. However, those who are curious can explore the scripts in Google Apps Script along with the XML file and formulas to understand how the document works.
 
-## РУССКИЙ (RUSSIAN)
+## 🇷🇺 РУССКИЙ (RUSSIAN)
 
 **Для работы таблицы требуется:**
 

@@ -1,6 +1,6 @@
 # WoWcalc
 
-Проект делался вместе с [Gottfr1ed](https://github.com/Gottfr1ed)
+Проект делался совместно с [Gottfr1ed](https://github.com/Gottfr1ed)
 
 **LINK:** https://docs.google.com/spreadsheets/d/1zn8SRW_emkZvs2q2L4hWa5ybwenzDhxKQxbYrNKio-k/edit?gid=0#gid=0
 

@@ -26,7 +26,7 @@ It's better to create a separate sheet for each build by duplicating the existin
 
 Each socket slot is automatically assigned a maximum value of 20 points. If the item has at least 1 socket, an additional 4 points are awarded for the socket bonus. The 4 points are the minimum (range 4-8), as we do not always socket according to the colors.
 
-The XML link is not needed for users; it's for developers. However, those who are curious can explore the scripts in Google Apps Script along with the XML file and formulas to understand how the document works.
+The XML link is not needed for users, it's for developers. However, those who are curious can explore the scripts in Google Apps Script along with the XML file and formulas to understand how the document works.
 
 ## РУССКИЙ (RUSSIAN)
 
